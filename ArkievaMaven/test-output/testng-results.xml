@@ -5,12 +5,12 @@
       <![CDATA[dummy1]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-09-28T16:35:14 IST" name="Default suite" finished-at="2023-09-28T16:35:14 IST" duration-ms="54">
+  <suite started-at="2023-09-30T13:15:33 IST" name="Default suite" finished-at="2023-09-30T13:15:33 IST" duration-ms="69">
     <groups>
     </groups>
-    <test started-at="2023-09-28T16:35:14 IST" name="Default test" finished-at="2023-09-28T16:35:14 IST" duration-ms="54">
+    <test started-at="2023-09-30T13:15:33 IST" name="Default test" finished-at="2023-09-30T13:15:33 IST" duration-ms="69">
       <class name="com.actitime.testscript.Acti2">
-        <test-method signature="dummy1()[pri:0, instance:com.actitime.testscript.Acti2@55b699ef]" started-at="2023-09-28T16:35:14 IST" name="dummy1" finished-at="2023-09-28T16:35:14 IST" duration-ms="10" status="PASS">
+        <test-method signature="dummy1()[pri:0, instance:com.actitime.testscript.Acti2@55b699ef]" started-at="2023-09-30T13:15:33 IST" name="dummy1" finished-at="2023-09-30T13:15:33 IST" duration-ms="14" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[dummy1]]>
